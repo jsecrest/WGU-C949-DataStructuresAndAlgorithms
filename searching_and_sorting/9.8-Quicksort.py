@@ -1,4 +1,4 @@
-# O(N^2)
+# O(N log N)
 # Recursive sort
 # Partitions the list in to halves and sorts each half, recursively repeating.
 
